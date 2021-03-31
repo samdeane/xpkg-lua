@@ -1,7 +1,7 @@
 import XPkgPackage
 
 let links = [
-    ["startup.fish", "~/.config/fish/conf.d/com.elegantchaos.lua.fish"],
+    ["Scripts/startup.fish", "~/.config/fish/conf.d/com.elegantchaos.lua.fish"],
 ]
 
 let arguments = CommandLine.arguments
